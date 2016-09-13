@@ -1,32 +1,10 @@
-========================
-BUILD OUTPUT DESCRIPTION
-========================
+Shizzle - Online Multiplayer Word game
 
-When you build an Java application project that has a main class, the IDE
-automatically copies all of the JAR
-files on the projects classpath to your projects dist/lib folder. The IDE
-also adds each of the JAR files to the Class-Path element in the application
-JAR files manifest file (MANIFEST.MF).
+TO RUN APPLICATION: Make sure you compile it first. It is advisable that you use Netbeans IDE. This program was compiled using netbeans IDE. Dependencies are located in the 'safe folder'. Copy and paste in the 'dist' folder anytime you recompile (clean build) the project JAR file using netbean IDE. Source code looks for dependencies where the JAR file is located, not where class file is located. This is the dist folder. If you run the program through netbeans without compiling (build) it first, it will not be able to find some of the dependencies. It will run nonetheless. 
 
-To run the project from the command line, go to the dist folder and
-type the following:
+Website: www.bigmesoftwares.com
 
-java -jar "Shizzle.jar" 
+Note: If you require the server code, please let me know.  
 
-To distribute this project, zip up the dist folder (including the lib folder)
-and distribute the ZIP file.
+LICENSE: Use the application or pieces of it as your please. I do have copyright on the code, so don't say you are me, that is not cool. You are welcome.
 
-Notes:
-
-* If two JAR files on the project classpath have the same name, only the first
-JAR file is copied to the lib folder.
-* Only JAR files are copied to the lib folder.
-If the classpath contains other types of files or folders, these files (folders)
-are not copied.
-* If a library on the projects classpath also has a Class-Path element
-specified in the manifest,the content of the Class-Path element has to be on
-the projects runtime path.
-* To set a main class in a standard Java project, right-click the project node
-in the Projects window and choose Properties. Then click Run and enter the
-class name in the Main Class field. Alternatively, you can manually type the
-class name in the manifest Main-Class element.
