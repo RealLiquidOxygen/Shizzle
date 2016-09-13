@@ -1,0 +1,32 @@
+#Program Properties
+#Fri Dec 11 20:58:09 CST 2015
+Content\ Holder\ ForeColor=green
+Minimize\ Back\ Color=mbcgd
+MyBest\ Back\ Color=mbbcgd
+Donate\ Back\ Color=dbcgd
+MyBest\ Fore\ color=white
+Other\ Button\ Back\ Color=otherbuttonbackgroundgreen
+Caret\ Color=green
+OnlinePlay\ Back\ Color=opbcgd
+propertyname=Green Deviance
+Label\ Text\ Back\ Color=black
+Minimize\ Fore\ Color=white
+About\ Fore\ color=white
+OnlinePlay\ Fore\ color=white
+Exit\ Back\ Color=ebcgd
+Exit\ Fore\ color=white
+ChatRoom\ Back\ Color=crbcgd
+ChatRoom\ Fore\ color=white
+Username\ ForeColor=blue
+Practice\ Back\ Color=pbcgd
+Background\ Image=mainload.jpg
+Practice\ Fore\ color=white
+Form\ Background\ Color=black
+Label\ Text\ Fore\ Color=green
+Donate\ Fore\ color=white
+Settings\ Back\ Color=stbcgd
+Settings\ Fore\ color=white
+Content\ Holder\ BackColor=white
+About\ Back\ Color=abbcgd
+Other\ Button\ Fore\ Color=otherbuttonforegroundgreen
+Program\ Name\ Color=green

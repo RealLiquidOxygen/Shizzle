@@ -1,0 +1,32 @@
+#Program Properties
+#Fri Dec 11 23:55:24 CST 2015
+Content\ Holder\ ForeColor=orange
+Minimize\ Back\ Color=mbcns
+MyBest\ Back\ Color=mbbcns
+Donate\ Back\ Color=dbcns
+MyBest\ Fore\ color=white
+Other\ Button\ Back\ Color=otherbuttonbackgroundorange
+Caret\ Color=orange
+OnlinePlay\ Back\ Color=opbcns
+propertyname=Night Shade
+Label\ Text\ Back\ Color=pbcns
+Minimize\ Fore\ Color=white
+About\ Fore\ color=white
+OnlinePlay\ Fore\ color=white
+Exit\ Back\ Color=ebcns
+Exit\ Fore\ color=white
+ChatRoom\ Back\ Color=crbcns
+ChatRoom\ Fore\ color=white
+Username\ ForeColor=white
+Practice\ Back\ Color=pbcns
+Background\ Image=nightshade.jpg
+Practice\ Fore\ color=white
+Form\ Background\ Color=pbcns
+Label\ Text\ Fore\ Color=orange
+Donate\ Fore\ color=white
+Settings\ Back\ Color=stbcns
+Settings\ Fore\ color=white
+Content\ Holder\ BackColor=white
+About\ Back\ Color=abbcns
+Other\ Button\ Fore\ Color=otherbuttonforegroundorange
+Program\ Name\ Color=crbcns

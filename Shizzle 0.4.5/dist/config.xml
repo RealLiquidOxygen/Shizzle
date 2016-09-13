@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\owoye001\Documents\NetBeansProjects\Shizzle 0.5.5 with flash\Shizzle 0.5.5\dist\Shizzle.jar</jar>
+  <outfile>C:\Users\owoye001\Documents\NetBeansProjects\Shizzle 0.5.5 with flash\Shizzle 0.5.5\dist\Content Holder\Shizzle.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>true</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\owoye001\Documents\NetBeansProjects\Shizzle 0.5.5 with flash\Shizzle 0.5.5\dist\Content Holder\image.ico</icon>
+  <singleInstance>
+    <mutexName>Shizzle.Auth.Okay</mutexName>
+    <windowTitle>Shizzle</windowTitle>
+  </singleInstance>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.8.0_60</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <splash>
+    <file>C:\Users\owoye001\Documents\NetBeansProjects\Shizzle 0.5.5 with flash\Shizzle 0.5.5\dist\Content Holder\ShizzleFlash0.5.5.bmp</file>
+    <waitForWindow>true</waitForWindow>
+    <timeout>45</timeout>
+    <timeoutErr>true</timeoutErr>
+  </splash>
+  <versionInfo>
+    <fileVersion>0.5.5.0</fileVersion>
+    <txtFileVersion>0.5.5.0</txtFileVersion>
+    <fileDescription>A multiplayer word search game</fileDescription>
+    <copyright>2015</copyright>
+    <productVersion>0.5.5.0</productVersion>
+    <txtProductVersion>0.5.5.0</txtProductVersion>
+    <productName>Shizzle</productName>
+    <companyName>Shizzle</companyName>
+    <internalName>Shizzle</internalName>
+    <originalFilename>Shizzle.exe</originalFilename>
+  </versionInfo>
+  <messages>
+    <startupErr>An error occurred while starting the application.</startupErr>
+    <bundledJreErr>This application was configured to use a bundled Java Runtime Environment but the runtime is missing or corrupted.</bundledJreErr>
+    <jreVersionErr>This application requires a Java Runtime Environment</jreVersionErr>
+    <launcherErr>The registry refers to a nonexistent Java Runtime Environment installation or the runtime is corrupted.</launcherErr>
+    <instanceAlreadyExistsMsg>An application instance is already running.</instanceAlreadyExistsMsg>
+  </messages>
+</launch4jConfig>

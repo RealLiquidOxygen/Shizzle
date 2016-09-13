@@ -1,0 +1,32 @@
+#Program Properties
+#Fri Dec 11 23:25:11 CST 2015
+Content\ Holder\ ForeColor=blue
+Minimize\ Back\ Color=mbcsl
+MyBest\ Back\ Color=mbbcsl
+Donate\ Back\ Color=dbcsl
+MyBest\ Fore\ color=white
+Other\ Button\ Back\ Color=otherbuttonbackgroundblue
+Caret\ Color=blue
+OnlinePlay\ Back\ Color=opbcsl
+propertyname=Sky Lights
+Label\ Text\ Back\ Color=pbcsl
+Minimize\ Fore\ Color=white
+About\ Fore\ color=white
+OnlinePlay\ Fore\ color=white
+Exit\ Back\ Color=ebcsl
+Exit\ Fore\ color=white
+ChatRoom\ Back\ Color=crbcsl
+ChatRoom\ Fore\ color=white
+Username\ ForeColor=purple
+Practice\ Back\ Color=pbcsl
+Background\ Image=skylight.jpg
+Practice\ Fore\ color=white
+Form\ Background\ Color=pbcsl
+Label\ Text\ Fore\ Color=blue
+Donate\ Fore\ color=white
+Settings\ Back\ Color=stbcsl
+Settings\ Fore\ color=white
+Content\ Holder\ BackColor=white
+About\ Back\ Color=abbcsl
+Other\ Button\ Fore\ Color=otherbuttonforegroundblue
+Program\ Name\ Color=crbcsl
